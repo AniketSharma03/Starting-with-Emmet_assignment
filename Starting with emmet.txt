@@ -1,0 +1,9 @@
+1.What is emmet?
+
+Sol:It is a set of abbreviations and shortcuts that allow developers to write HTML and CSS code faster and with less effort. Emmet is a toolkit for web developers that greatly enhances the efficiency of HTML and CSS coding. 
+For Example : By using emmet we can create nested HTML elements using the > symbol. For example, div>ul>li*3 can be expanded to a structure with a div containing a ul with three li items.
+
+2.What are the advantages of using Emmet?
+
+Sol: Emmet offers a powerful set of tools and shortcuts that enhance the speed and efficiency of HTML and CSS coding. It is a valuable asset for web developers which reduces repetitive tasks.
+It also provides shorthand abbreviations for commonly used HTML and CSS patterns, such as creating elements, nesting structure etc.
